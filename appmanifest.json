@@ -1,0 +1,16 @@
+{
+	"name": "海底世界",
+	"short_name": "海底世界",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/LOGO-01.png",
+			"sizes": "400x400",
+			"type": "image/png"
+		}
+	]
+}

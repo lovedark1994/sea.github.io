@@ -3333,6 +3333,7 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		{Sprite6: 0},
 		{语音识别: 0},
 		{寶箱: 0},
+		{珍珠: 0},
 		{通通不能動: 0},
 		{觸碰中: 0},
 		{一按鈕: 0},

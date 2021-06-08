@@ -3558,8 +3558,8 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		() => "我手上這件黃色衣服\n今天大特價喔",
 		() => "林",
 		() => "你看起來骨骼驚奇\n要不要我來為你算個命啊 \n",
+		() => 2,
 		() => 1,
-		() => 4,
 		() => "開始場景",
 		() => 9,
 		() => 240,
@@ -3614,8 +3614,7 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		() => 56,
 		() => 274,
 		() => 136,
-		() => 86,
-		() => 2
+		() => 86
 	];
 }
 

@@ -3362,7 +3362,6 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		C3.Plugins.Date.Exps.Now,
 		C3.Plugins.System.Exps.int,
 		C3.Plugins.System.Exps.mid,
-		C3.Plugins.System.Acts.LoadState,
 		C3.Plugins.Touch.Cnds.OnTouchObject,
 		C3.Plugins.Text.Acts.Destroy,
 		C3.Plugins.Sprite.Acts.StartAnim,
@@ -3607,14 +3606,14 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		() => 460,
 		() => 392,
 		() => 271,
-		() => 238,
-		() => 307,
+		() => 136,
+		() => 86,
 		() => 318,
 		() => 100,
+		() => 238,
+		() => 307,
 		() => 56,
-		() => 274,
-		() => 136,
-		() => 86
+		() => 274
 	];
 }
 

@@ -3398,6 +3398,7 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		C3.Plugins.Date.Exps.Now,
 		C3.Plugins.System.Exps.int,
 		C3.Plugins.System.Exps.mid,
+		C3.Plugins.System.Acts.LoadState,
 		C3.Plugins.Touch.Cnds.OnTouchObject,
 		C3.Plugins.Text.Acts.Destroy,
 		C3.Plugins.Sprite.Acts.StartAnim,
@@ -3460,7 +3461,8 @@ true,result:this.OTHER})}if(C3.IsFiniteNumber(property))property=C3.Behaviors.Tw
 		{三按鈕: 0},
 		{時間: 0},
 		{密碼二: 0},
-		{密碼一: 0}
+		{密碼一: 0},
+		{可按按鈕: 0}
 	];
 }
 
